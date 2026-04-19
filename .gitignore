@@ -2,6 +2,7 @@
 outputs/
 .venv/
 prompts.json
+inputs/
 __pycache__/
 *.pyc
 .DS_Store
