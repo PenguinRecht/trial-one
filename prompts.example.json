@@ -1,0 +1,18 @@
+[
+  {
+    "label": "my_image",
+    "prompt": "Your prompt here",
+    "model": "flux2",
+    "width": 1024,
+    "height": 1024,
+    "steps": 20
+  },
+  {
+    "label": "draft_keyframe",
+    "prompt": "A quick draft prompt",
+    "model": "flux1",
+    "width": 1024,
+    "height": 1024,
+    "steps": 20
+  }
+]
